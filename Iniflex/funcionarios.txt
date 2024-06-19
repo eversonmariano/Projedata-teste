@@ -1,0 +1,11 @@
+Nome                 Data de Nascimento Novo Salário    Cargo          
+--------------------------------------------------------------------------------
+Maria                18/10/2000      2.210,38        Operador       
+Caio                 02/05/1961      10.819,75       Coordenador    
+Miguel               14/10/1988      21.031,87       Diretor        
+Alice                05/01/1995      2.458,15        Recepcionista  
+Heitor               19/11/1999      1.740,99        Operador       
+Arthur               31/03/1993      4.479,02        Contador       
+Laura                08/07/1994      3.319,20        Gerente        
+Heloísa              24/05/2003      1.767,54        Eletricista    
+Helena               02/09/1996      3.079,92        Gerente        
